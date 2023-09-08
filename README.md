@@ -1,11 +1,11 @@
 <code>🎓 Student: KPI / IM-22</code>
-<code>⚪ Community: Metarhia</code>
-<code>👷 Speciality: Software engineer / Backend</code><br>
+<code>⚪ Community: FICE Student Council</code>
+<code>👷 Speciality: Software engineer / Front-end, Full-stack </code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-<code>🧑‍💻 Languages: React, ts, js, next.js, MUI, formik, cpp, qt</code>
-<code>📦 Tech stack: node.js</code>
+<code>🧑‍💻 Languages: js, ts, cpp, bash, node</code>
+<code>📦 Tech stack: React, ts, js, next.js, MUI, formik, cpp, qt, node</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@your-nikname](https://telegram.me/your-nikname)</code>
 <code>📫 [your-email](mailto:your-email)</code>
