@@ -7,5 +7,5 @@
 <code>🧑‍💻 Languages: js, ts, cpp, bash, node</code>
 <code>📦 Tech stack: React, ts, js, next.js, MUI, formik, cpp, qt, node</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@your-nikname](https://telegram.me/your-nikname)</code>
-<code>📫 [your-email](mailto:your-email)</code>
+<code>💬 telegram: [@your-nikname](https://telegram.me/kujo005)</code>
+<code>📫 [kuc8301@gmail.com](mailto: kuc8301@gmail.com)</code>
