@@ -8,4 +8,4 @@
 <code>📦 Tech stack: React, ts, js, next.js, MUI, formik, cpp, qt, node</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@kujo005](https://telegram.me/kujo005)</code>
-<code>📫 [@kuc8301@gmail.com](mailto: kuc8301@gmail.com)</code>
+<code>📫 kuc8301@gmail.com</code>
