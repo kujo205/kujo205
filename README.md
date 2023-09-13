@@ -1,4 +1,3 @@
-
 <code>🎓 Student: KPI / IM-22</code>
 <code>⚪ Community: FICE Student Council</code>
 <code>👷 Speciality: Software engineer / Front-end, Full-stack </code><br>
