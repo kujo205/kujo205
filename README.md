@@ -1,4 +1,4 @@
-I am a passionate full stack web developer, pursuing software engineering degree, keen on OSS, which brings value to your busineess
+I am a passionate full stack web developer, pursuing software engineering degree, keen on OSS, which bring value to your busineess
 
 <code>🎓 Student: KPI / IM-22</code>
 <code>⚪ Community: FICE Student Council</code>
