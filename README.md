@@ -6,9 +6,9 @@ I am a passionate full stack web developer, pursuing software engineering degree
 
 <code>🧑‍💻 Primary languages: js, ts, node, bash, cpp</code>
 
-<code>🧑‍💻 Tried languages: c, python, golang, java, ada</code>
-
 <code>📦 Tech stack: svelte, sveltekit, React, ts, js, next.js, MUI, trpc, t3, formik, cpp, qt, node, tailwind, svelte, sveltekit, hono, docker, linux </code>
+
+<code>🧑‍💻 Tried languages: c, python, golang, java, ada</code>
 
 <code>💬 telegram: [@kujo205](https://telegram.me/kujo005)</code><code>📫 kuc8301@gmail.com</code>
 
