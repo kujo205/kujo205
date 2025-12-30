@@ -6,7 +6,7 @@ I am a passionate full stack web developer, pursuing software engineering degree
 
 <code>🧑‍💻 Primary languages: js, ts, node, bash, cpp</code>
 
-<code>📦 Tech stack: svelte, sveltekit, React, ts, js, next.js, MUI, trpc, t3, formik, cpp, qt, node, tailwind, svelte, sveltekit, hono, docker, linux </code>
+<code>📦 Tech stack: svelte, sveltekit, React, ts, js, next.js, MUI, trpc, t3, formik, cpp, qt, node, tailwind, svelte, sveltekit, hono, docker, linux, MySQL </code>
 
 <code>🧑‍💻 Tried languages: c, python, golang, java, ada</code>
 
